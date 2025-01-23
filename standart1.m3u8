@@ -1,4 +1,0 @@
-#EXTM3U catchup="flussonic" url-tvg="https://github.com/harrygg/EPG/raw/refs/heads/master/all-2days.details.epg.xml.gz"
-
-#EXTINF:-1, BNT 1 HD
-https://cdn3.glebul.com/hls/hd-bnt-1-hd/index.m3u8
