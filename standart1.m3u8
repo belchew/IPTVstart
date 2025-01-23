@@ -1,5 +1,4 @@
 #EXTM3U catchup="flussonic" url-tvg="https://github.com/harrygg/EPG/raw/refs/heads/master/all-2days.details.epg.xml.gz"
 
 #EXTINF:0 tvg-name="БНТ 1" tvg-logo="https://www.glebul.com/images/tv-logo/bnt-1-hd.png" , БНТ 1 HD
-https://cdn3.glebul.com/hls/hd-bnt-1-hd/index.m3u8?e=1737622186&hash=--rpsZgLu4Igj_lt65AHjw
 https://cdn3.glebul.com/hls/hd-bnt-1-hd/index.m3u8?e=1737622186&hash=--rpsZgLu4Igj_lt65AHjw|Referer=https://www.seir-sanduk.com/?id=hd-bnt-1-hd&pass=&hash=0123AM/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://cookiewebplay.xyz
