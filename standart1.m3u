@@ -1,6 +1,4 @@
-#EXTM3U 
-#EXTINF:0 group-title="Tamil;Local" tvg-logo="https://austamil.tv/wp-content/uploads/2020/04/aus-tamil-HD-New-e1586081963171.png", AUS TAMIL
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:inputstream.adaptive.mime_type=application/vnd.apple.mpegurl
-https://cdn3.glebul.com/hls/hd-bnt-1-hd/index.m3u8?e=1737622186&hash=--rpsZgLu4Igj_lt65AHjw
+#EXTM3U
+#KODIPROP:inputstream.adaptive.manifest_type=m3u8
+#EXTINF:-1 tvg-id="БНТ 1" tvg-name="БНТ 1" tvg-shift="-8" tvg-logo="https://www.glebul.com/images/tv-logo/bnt-1-hd.png" group-title="NEWS",BNT
+https://cdn5.glebul.com/hls/hd-bnt-1-hd/index.m3u8?e=1737630573&hash=TiDYtEEA3wDNB5hgDAssRA
