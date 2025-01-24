@@ -1,36 +1,52 @@
 #EXTM3U catchup="flussonic" url-tvg="https://github.com/harrygg/EPG/raw/refs/heads/master/all-2days.details.epg.xml.gz"
 
 #EXTINF:0 tvg-name="БНТ 1" tvg-logo="https://www.glebul.com/images/tv-logo/bnt-1-hd.png" , БНТ 1 HD
+https://mx86.glebul.com/hlsfhd/hd-bnt-1-hd_hd1080/index.m3u8?e=1737712493&hash=uqQpu85N2HwtO455gLaNxA
 https://mx86.glebul.com/hlsfhd/hd-bnt-1-hd_hd1080/index.m3u8?e=1737652115&hash=jYJi0FKPipSbPPkh_JD3UA
 
+https://ssdraid.glebul.com/hls/bnt-2/index.m3u8?e=1737712497&hash=S8pMw7eb0sipO2qIcrSCNg
 #EXTINF:0 tvg-name="BNT 2" tvg-logo="https://www.glebul.com/images/tv-logo/bnt-2.png" , BNT 2
 https://ssdraid.glebul.com/hls/bnt-2/index.m3u8?e=1737652124&hash=bLk6siFFKBCsht-IO3nycg
+https://mx86.glebul.com/hlsfhd/hd-bnt-3-hd_hd1080/index.m3u8?e=1737712501&hash=zyl8_Oh0xVK60qy2RjuxZQ
 
 #EXTINF:0 tvg-name="BNT 3" tvg-logo="https://www.glebul.com/images/tv-logo/bnt-3-hd.png" , BNT 3
+https://ssdraid.glebul.com/hls/bnt-4/index.m3u8?e=1737712505&hash=ko3bS8kSKQ64BJka3ThNZg
 https://mx86.glebul.com/hlsfhd/hd-bnt-3-hd_hd1080/index.m3u8?e=1737652127&hash=7WrHHzQ-SxWDTlJJ7WlqRg
 
+https://mx86.glebul.com/hlsfhd/hd-nova-tv-hd_hd1080/index.m3u8?e=1737712509&hash=Oq-xGC7KNO-g_7mYp7yzfw
 #EXTINF:0 tvg-name="BNT 4" tvg-logo="https://www.glebul.com/images/tv-logo/bnt-4.png" , BNT 4
 https://ssdraid.glebul.com/hls/bnt-4/index.m3u8?e=1737652130&hash=4oFA3hW-boE9z12GmNqQ2g
+https://mx86.glebul.com/hlsfhd/hd-btv-hd_hd1080/index.m3u8?e=1737712512&hash=3eFzXOt3fXHC49A7b2UVQQ
 
 #EXTINF:0 tvg-name="Nova TV" tvg-logo="https://www.glebul.com/images/tv-logo/nova-tv-hd.png" , Nova TV HD
+https://mx86.glebul.com/hlsfhd/hd-btv-action-hd_hd1080/index.m3u8?e=1737712516&hash=11Rqmf9tg3aMJQXIuaBDmg
 https://mx86.glebul.com/hlsfhd/hd-nova-tv-hd_hd1080/index.m3u8?e=1737652133&hash=E-4QSkFHJIGM5pRCsRysOw
 
+https://ssdraid.glebul.com/hls/btv-cinema/index.m3u8?e=1737712520&hash=yo4XfjgSLtXv9hNNtbAsmQ
 #EXTINF:0 tvg-name="bTV" tvg-logo="https://www.glebul.com/images/tv-logo/btv-hd.png" , bTV HD
 https://mx86.glebul.com/hlsfhd/hd-btv-hd_hd1080/index.m3u8?e=1737652136&hash=zluaoAw4iaOpUQGpcCIKkw
+https://ssdraid.glebul.com/hls/btv-comedy/index.m3u8?e=1737712525&hash=AAi3inFamTQv5lYUDiqW7Q
 
 #EXTINF:0 tvg-name="bTV Action" tvg-logo="https://www.glebul.com/images/tv-logo/btv-action-hd.png" , bTV Action
+https://ssdraid.glebul.com/hls/btv-story/index.m3u8?e=1737712528&hash=XYZfB-IqjQjfBDFpUZ4ojQ
 https://mx86.glebul.com/hlsfhd/hd-btv-action-hd_hd1080/index.m3u8?e=1737652139&hash=PPmf2UzBTcKlfTFOZsZX_Q
 
+https://ssdraid.glebul.com/hls/bulgaria-on-air/index.m3u8?e=1737712532&hash=QEYLC9IqHa25oM6TFyNJQA
 #EXTINF:0 tvg-name="bTV Cinema" tvg-logo="https://www.glebul.com/images/tv-logo/btv-cinema.png" , bTV Cinema
 https://ssdraid.glebul.com/hls/btv-cinema/index.m3u8?e=1737652142&hash=PiYOs8jDMaw3mmCR-Inj7w
+https://ssdraid.glebul.com/hls/cartoon-network/index.m3u8?e=1737712535&hash=ix9UvvNUlw51O-HcCiOM6g
 
 #EXTINF:0 tvg-name="bTV Comedy" tvg-logo="https://www.glebul.com/images/tv-logo/btv-comedy.png" , bTV Comedy
+https://mx86.glebul.com/hlsfhd/hd-code-fashion-tv-hd_hd1080/index.m3u8?e=1737712542&hash=Lh_0BieWV7vzZiM5lheiBw
 https://ssdraid.glebul.com/hls/btv-comedy/index.m3u8?e=1737652145&hash=Q-_gdunJlSQlLsKdwQ-XyQ
 
+https://mx115.glebul.com/hlsfhd/hd-diema-sport-hd_hd1080/index.m3u8?e=1737712548&hash=H2KLzV6W9utYqugl6VfAHw
 #EXTINF:0 tvg-name="bTV Story" tvg-logo="https://www.glebul.com/images/tv-logo/btv-story.png" , bTV Story
 https://ssdraid.glebul.com/hls/btv-story/index.m3u8?e=1737652148&hash=ZeizpCUdWkXk9eQMCd4OaQ
+https://mx115.glebul.com/hlsfhd/hd-diema-sport-2-hd_hd1080/index.m3u8?e=1737712552&hash=wteGR41hQJ3_VJXMd0HMAg
 
 #EXTINF:0 tvg-name="bgonair.bg" tvg-logo="https://www.glebul.com/images/tv-logo/bulgaria-on-air.png" , bgonair.bg
+https://mx115.glebul.com/hlsfhd/hd-diema-sport-3-hd_hd1080/index.m3u8?e=1737712556&hash=6Ix2Hq_WpgYr5IIeN36q1A
 https://ssdraid.glebul.com/hls/bulgaria-on-air/index.m3u8?e=1737652151&hash=qlhElhRNdIsYtgwMEX1BQQ
 
 #EXTINF:0 tvg-name="Cartoon Network" tvg-logo="https://www.glebul.com/images/tv-logo/cartoon-network.png" , Cartoon Network
