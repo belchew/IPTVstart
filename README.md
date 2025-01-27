@@ -1,2 +1,1 @@
-# IPTVstart
-Internet television from new generete
+Auto ganerated files
