@@ -27,8 +27,29 @@ https://xyzdddd.mizhls.ru/lb/premium481/index.m3u8|Referer=https://cookiewebplay
 #EXTINF:-1 tvg-name="bTV Story" tvg-logo="https://www.glebul.com/images/tv-logo/btv-story.png" , bTV Story
 https://xyzdddd.mizhls.ru/lb/premium484/index.m3u8|Referer=https://cookiewebplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://cookiewebplay.xyz
 
+#EXTINF:-1 tvg-id="hd.traveltv.bg" tvg-name="hd.traveltv.bg" group-title="News",This is Bulgaria
+https://streamer103.neterra.tv/thisisbulgaria/live.m3u8 
+
+#EXTINF:-1 tvg-id="tv.traveltv.bg" tvg-name="tv.traveltv.bg" group-title="News",Travel TV
+https://streamer103.neterra.tv/travel/live.m3u8
+
+#EXTINF:-1 tvg-id="tv1.bg" tvg-name="tv1.bg" group-title="News",TV1
+https://tv1.cloudcdn.bg:8081/stream.m3u8
+
+#EXTINF:-1 tvg-id="eurocom.bg" tvg-name="eurocom.bg" group-title="News",Eurocom
+https://live.ecomservice.bg/hls/stream.m3u8
+
+#EXTINF:-1 tvg-id="codefashion.bg" tvg-name="codefashion.bg" group-title="News",Code Fashion
+https://cdn3.invivo.bg/Codefashion_5500/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="codehealth.bg" tvg-name="codehealth.bg" group-title="News",Code Health
+https://cdn3.invivo.bg/codehealth_test/index.m3u8
+
 #EXTINF:-1 tvg-name="The Voice" tvg-logo="https://www.glebul.com/images/tv-logo/the-voice.png" , The Voice
-https://bss1.neterra.tv/thevoice/stream_0.m3u8
+https://bss1.neterra.tv/thevoice/thevoice.m3u8
+
+#EXTINF:-1 tvg-id="magic.bg" tvg-name="magic.bg" group-title="Music",Magic TV
+https://bss1.neterra.tv/magictv/magictv.m3u8
 
 #EXTINF:-1 tvg-name="City TV" tvg-logo="https://www.glebul.com/images/tv-logo/city-tv.png" , City TV
 https://tv.city.bg/play/tshls/citytv/3.m3u8
