@@ -27,38 +27,8 @@ https://xyzdddd.mizhls.ru/lb/premium481/index.m3u8|Referer=https://cookiewebplay
 #EXTINF:-1 tvg-name="bTV Story" tvg-logo="https://www.glebul.com/images/tv-logo/btv-story.png" , bTV Story
 https://xyzdddd.mizhls.ru/lb/premium484/index.m3u8|Referer=https://cookiewebplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://cookiewebplay.xyz
 
-#EXTINF:-1 tvg-name="STAR Crime " tvg-logo="https://www.glebul.com/images/tv-logo/star-crime-hd.png" , STAR Crime HD
-https://mx86.glebul.com/hlsfhd/hd-star-crime-hd_hd1080/index.m3u8?e=1738110664&hash=DajV88juXQj6gqNzaxa6sg
-
-#EXTINF:-1 tvg-name="STAR CHANNEL" tvg-logo="https://www.glebul.com/images/tv-logo/star-channel-hd.png" , STAR CHANNEL HD
-https://mx86.glebul.com/hlsfhd/hd-star-channel-hd_hd1080/index.m3u8?e=1738110673&hash=Lt3vUQeWTbX77T5ciSw9IQ
-
-#EXTINF:-1 tvg-name="STAR Life" tvg-logo="https://www.glebul.com/images/tv-logo/star-life-hd.png" , STAR Life HD
-https://mx86.glebul.com/hlsfhd/hd-star-life-hd_hd1080/index.m3u8?e=1738110681&hash=AxyxTAS7kv08SaYnK1Uf5w
-
-#EXTINF:-1 tvg-name="KinoNova" tvg-logo="https://www.glebul.com/images/tv-logo/kino-nova.png" , KinoNova
-https://mx86.glebul.com/hlsfhd/hd-nova-news-hd_hd1080/index.m3u8?e=1738110696&hash=Z1_mHPzRcYCb7HgJtv3riQ
-
-#EXTINF:-1 tvg-name="Nova News" tvg-logo="https://www.glebul.com/images/tv-logo/nova-news-hd.png" , Nova News
-https://mx86.glebul.com/hlsfhd/hd-nova-news-hd_hd1080/index.m3u8?e=1738110696&hash=Z1_mHPzRcYCb7HgJtv3riQ
-
-#EXTINF:-1 tvg-name="7/8 TV" tvg-logo="https://www.glebul.com/images/tv-logo/78-tv-hd.png" , 7/8 TV
-https://mx86.glebul.com/hlsfhd/hd-78-tv-hd_hd1080/index.m3u8?e=1738110704&hash=gVRpIpbr3RDndlgzy3fcbQ
-
-#EXTINF:-1 tvg-name="Travel Channel" tvg-logo="https://www.glebul.com/images/tv-logo/travel-channel-hd.png" , Travel Channel 
-https://mx86.glebul.com/hlsfhd/hd-travel-channel-hd_hd1080/index.m3u8?e=1738110712&hash=QGkSbnrPfLZ7CvFn2Hqr2g
-
-#EXTINF:-1 tvg-name="24 Kitchen" tvg-logo="https://www.glebul.com/images/tv-logo/24-kitchen-hd.png" , 24 Kitchen
-https://mx86.glebul.com/hlsfhd/hd-24-kitchen-hd_hd1080/index.m3u8?e=1738110720&hash=f_DjcLgAy6I1CLCIR4au8g
-
 #EXTINF:-1 tvg-name="The Voice" tvg-logo="https://www.glebul.com/images/tv-logo/the-voice.png" , The Voice
 https://bss1.neterra.tv/thevoice/stream_0.m3u8
-
-#EXTINF:-1 tvg-name="Planeta Folk" tvg-logo="https://www.glebul.com/images/tv-logo/planeta-folk.png" , Planeta Folk
-https://cdn.stgledai.org:8082/hls/planetafolk/tracks-v1a1/mono.m3u8?token=bafc0a59bb84f3f01686fceee20d780eba6064db-d7e006c02e33ff0d24e5de2086eaaec2-1738114043-1738103243
-
-#EXTINF:-1 tvg-name="Planeta HD" tvg-logo="https://www.glebul.com/images/tv-logo/planeta-hd.png" , Planeta HD
-https://cdn11.stgledai.org/planetafolk/tracks-v1a1/mono.m3u8?token=bafc0a59bb84f3f01686fceee20d780eba6064db-d7e006c02e33ff0d24e5de2086eaaec2-1738114043-1738103243
 
 #EXTINF:-1 tvg-name="City TV" tvg-logo="https://www.glebul.com/images/tv-logo/city-tv.png" , City TV
 https://tv.city.bg/play/tshls/citytv/3.m3u8
