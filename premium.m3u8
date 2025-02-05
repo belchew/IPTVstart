@@ -5,7 +5,7 @@ https://xyzdddd.mizhls.ru/lb/premium476/index.m3u8|Referer=https://cookiewebplay
 #EXTINF:-1 tvg-name="bTV" tvg-logo="https://www.glebul.com/images/tv-logo/btv-hd.png" , bTV HD
 https://xyzdddd.mizhls.ru/lb/premium479/index.m3u8|Referer=https://cookiewebplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://cookiewebplay.xyz
 #EXTINF:-1 tvg-name="Nova TV" tvg-logo="https://www.glebul.com/images/tv-logo/nova-tv-hd.png" , Nova TV HD
-https://xyzdddd.mizhls.ru/lb/premium480/index.m3u8|Referer=https://cookiewebplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101
+https://cdn3.glebul.com/hls/hd-nova-tv-hd/index.m3u8?e=1738789616&hash=VWjGFKKxZzxPaO8AFL1Qqg
 #EXTINF:-1 tvg-name="БНТ 3" tvg-logo="https://www.glebul.com/images/tv-logo/bnt-2.png" , BNT 2
 https://xyzdddd.mizhls.ru/lb/premium477/index.m3u8|Referer=https://cookiewebplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://cookiewebplay.xyz
 #EXTINF:-1 tvg-name="BNT 3" tvg-logo="https://www.glebul.com/images/tv-logo/bnt-3-hd.png" , BNT 3
