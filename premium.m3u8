@@ -1,130 +1,130 @@
 #EXTM3U catchup="flussonic" url-tvg="https://github.com/harrygg/EPG/raw/refs/heads/master/all-2days.details.epg.xml.gz"
 
-#EXTINF:-1 tvg-name="БНТ 1" tvg-logo="https://www.glebul.com/images/tv-logo/bnt-1-hd.png" , БНТ 1 HD
+#EXTINF:-1 tvg-name="БНТ 1" tvg-logo="https://www.glebul.com/images/tv-logo/bnt-1-hd.png" group-title="ЕФИРНИ" , БНТ 1 HD
 https://xyzdddd.mizhls.ru/lb/premium476/index.m3u8|Referer=https://cookiewebplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://cookiewebplay.xyz
-#EXTINF:-1 tvg-name="bTV" tvg-logo="https://www.glebul.com/images/tv-logo/btv-hd.png" , bTV HD
+#EXTINF:-1 tvg-name="bTV" tvg-logo="https://www.glebul.com/images/tv-logo/btv-hd.png" group-title="ЕФИРНИ" , bTV HD
 https://xyzdddd.mizhls.ru/lb/premium479/index.m3u8|Referer=https://cookiewebplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://cookiewebplay.xyz
-#EXTINF:-1 tvg-name="Nova TV" tvg-logo="https://www.glebul.com/images/tv-logo/nova-tv-hd.png" , Nova TV HD
+#EXTINF:-1 tvg-name="Nova TV" tvg-logo="https://www.glebul.com/images/tv-logo/nova-tv-hd.png" group-title="ЕФИРНИ" , Nova TV HD
 http://stb.iphd.tv:80/live/91858404/7757776/95195.m3u8
-#EXTINF:-1 tvg-name="БНТ 3" tvg-logo="https://www.glebul.com/images/tv-logo/bnt-2.png" , BNT 2
+#EXTINF:-1 tvg-name="БНТ 3" tvg-logo="https://www.glebul.com/images/tv-logo/bnt-2.png" group-title="ЕФИРНИ" , BNT 2
 https://xyzdddd.mizhls.ru/lb/premium477/index.m3u8|Referer=https://cookiewebplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://cookiewebplay.xyz
-#EXTINF:-1 tvg-name="BNT 3" tvg-logo="https://www.glebul.com/images/tv-logo/bnt-3-hd.png" , BNT 3
+#EXTINF:-1 tvg-name="BNT 3" tvg-logo="https://www.glebul.com/images/tv-logo/bnt-3-hd.png" group-title="ЕФИРНИ" , BNT 3
 https://xyzdddd.mizhls.ru/lb/premium478/index.m3u8|Referer=https://cookiewebplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://cookiewebplay.xyz
-#EXTINF:-1 tvg-name="BNT 4" tvg-logo="https://www.glebul.com/images/tv-logo/bnt-4.png" , BNT 4 HD
+#EXTINF:-1 tvg-name="BNT 4" tvg-logo="https://www.glebul.com/images/tv-logo/bnt-4.png" group-title="ЕФИРНИ" , BNT 4 HD
 http://stb.iphd.tv:80/live/91858404/7757776/95198.m3u8
-#EXTINF:-1 tvg-name="Euronews Bulgaria" tvg-logo="https://www.glebul.com/images/tv-logo/euronews-bulgaria.png" , Euronews Bulgaria
+#EXTINF:-1 tvg-name="Euronews Bulgaria" tvg-logo="https://www.glebul.com/images/tv-logo/euronews-bulgaria.png" group-title="ЕФИРНИ" , Euronews Bulgaria
 http://stb.iphd.tv:80/live/91858404/7757776/95199.m3u8
-#EXTINF:-1 tvg-name="Nova News" tvg-logo="https://www.glebul.com/images/tv-logo/nova-news-hd.png" , Nova News HD
+#EXTINF:-1 tvg-name="Nova News" tvg-logo="https://www.glebul.com/images/tv-logo/nova-news-hd.png" group-title="ЕФИРНИ" , Nova News HD
 http://stb.iphd.tv:80/live/91858404/7757776/95200.m3u8
-#EXTINF:-1 tvg-name="bgonair.bg" tvg-logo="https://www.glebul.com/images/tv-logo/bulgaria-on-air.png" , Bulgaria ON Air HD.bg
+#EXTINF:-1 tvg-name="bgonair.bg" tvg-logo="https://www.glebul.com/images/tv-logo/bulgaria-on-air.png" group-title="ЕФИРНИ" , Bulgaria ON Air HD.bg
 http://stb.iphd.tv:80/live/91858404/7757776/95201.m3u8
-#EXTINF:-1 tvg-name="Evrokom" tvg-logo="https://www.glebul.com/images/tv-logo/evrokom.png" , Evrokom
+#EXTINF:-1 tvg-name="Evrokom" tvg-logo="https://www.glebul.com/images/tv-logo/evrokom.png" group-title="ЕФИРНИ" , Evrokom
 http://stb.iphd.tv:80/live/91858404/7757776/95202.m3u8
-#EXTINF:-1 tvg-name="Skat" tvg-logo="https://www.glebul.com/images/tv-logo/skat.png" , Skat
+#EXTINF:-1 tvg-name="Skat" tvg-logo="https://www.glebul.com/images/tv-logo/skat.png" group-title="ЕФИРНИ" , Skat
 http://stb.iphd.tv:80/live/91858404/7757776/95374.m3u8
-#EXTINF:-1 tvg-name="TV1" tvg-logo="https://www.glebul.com/images/tv-logo/tv-1.png" , TV1
+#EXTINF:-1 tvg-name="TV1" tvg-logo="https://www.glebul.com/images/tv-logo/tv-1.png" group-title="ЕФИРНИ" , TV1
 http://stb.iphd.tv:80/live/91858404/7757776/95196.m3u8
-#EXTINF:-1 tvg-name="Bloomberg" tvg-logo="https://www.glebul.com/images/tv-logo/bloomberg-tv.png" , Bloomberg TV Bulgaria HD
+#EXTINF:-1 tvg-name="Bloomberg" tvg-logo="https://www.glebul.com/images/tv-logo/bloomberg-tv.png" group-title="ЕФИРНИ" , Bloomberg TV Bulgaria HD
 http://stb.iphd.tv:80/live/91858404/7757776/95203.m3u8
-#EXTINF:-1 tvg-name="7/8 TV" tvg-logo="https://www.glebul.com/images/tv-logo/78-tv-hd.png" , 7/8 TV HD
+#EXTINF:-1 tvg-name="7/8 TV" tvg-logo="https://www.glebul.com/images/tv-logo/78-tv-hd.png" group-title="ЕФИРНИ" , 7/8 TV HD
 http://stb.iphd.tv:80/live/91858404/7757776/95204.m3u8
-#EXTINF:-1 tvg-id="FilmBox.bg" tvg-name="BG:Flim BOX HD" tvg-logo="http://iphd.tv/service/bulsat/b1b_box-15-07-2021.svg" Flim BOX HD
+#EXTINF:-1 tvg-id="FilmBox.bg" tvg-name="BG:Flim BOX HD" tvg-logo="http://iphd.tv/service/bulsat/b1b_box-15-07-2021.svg" group-title="Филмови" , Flim BOX HD
 http://stb.iphd.tv:80/live/91858404/7757776/95205.m3u8
-#EXTINF:-1 tvg-name="bTV Action" tvg-logo="https://www.glebul.com/images/tv-logo/btv-action-hd.png" , bTV Action HD
+#EXTINF:-1 tvg-name="bTV Action" tvg-logo="https://www.glebul.com/images/tv-logo/btv-action-hd.png" group-title="Спортни"  , bTV Action HD
 https://xyzdddd.mizhls.ru/lb/premium481/index.m3u8|Referer=https://cookiewebplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://cookiewebplay.xyz
-#EXTINF:-1 tvg-name="EURO SPORT 1" tvg-logo="https://www.glebul.com/images/tv-logo/eurosport-1-hd.png" , EURO SPORT 1 HD
+#EXTINF:-1 tvg-name="EURO SPORT 1" tvg-logo="https://www.glebul.com/images/tv-logo/eurosport-1-hd.png" group-title="Спортни" , EURO SPORT 1 HD
 https://xyzdddd.mizhls.ru/lb/premium469/index.m3u8|Referer=https://cookiewebplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://cookiewebplay.xyz
-#EXTINF:-1 tvg-name="EURO SPORT 2" tvg-logo="https://www.glebul.com/images/tv-logo/eurosport-2-hd.png" , EURO SPORT 2 HD
+#EXTINF:-1 tvg-name="EURO SPORT 2" tvg-logo="https://www.glebul.com/images/tv-logo/eurosport-2-hd.png" group-title="Спортни" , EURO SPORT 2 HD
 https://xyzdddd.mizhls.ru/lb/premium470/index.m3u8|Referer=https://cookiewebplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://cookiewebplay.xyz
-#EXTINF:-1 tvg-name="Ring BG" tvg-logo="https://www.glebul.com/images/tv-logo/ring-bg-hd.png" , Ring BG
+#EXTINF:-1 tvg-name="Ring BG" tvg-logo="https://www.glebul.com/images/tv-logo/ring-bg-hd.png" group-title="Спортни" , Ring BG
 https://xyzdddd.mizhls.ru/lb/premium471/index.m3u8|Referer=https://cookiewebplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://cookiewebplay.xyz
-#EXTINF:-1 tvg-name="Nova Sport" tvg-logo="https://www.glebul.com/images/tv-logo/nova-sport-hd.png" , Nova Sport HD
+#EXTINF:-1 tvg-name="Nova Sport" tvg-logo="https://www.glebul.com/images/tv-logo/nova-sport-hd.png" group-title="Спортни" , Nova Sport HD
 https://xyzdddd.mizhls.ru/lb/premium468/index.m3u8|Referer=https://cookiewebplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://cookiewebplay.xyz
-#EXTINF:-1 tvg-id="NatGeo.bg" tvg-name="BG:Sportal HD" tvg-logo="http://iphd.tv/service/bulsat/sportal_bg-07-01-2021.svg" group-title="Bulgars",BG:Sportal HD
+#EXTINF:-1 tvg-id="NatGeo.bg" tvg-name="BG:Sportal HD" tvg-logo="http://iphd.tv/service/bulsat/sportal_bg-07-01-2021.svg" group-title="Спортни" , Sportal HD
 http://stb.iphd.tv:80/live/91858404/7757776/95212.m3u8
-#EXTINF:-1 tvg-id="NatGeo.bg" tvg-name="BG:Auto Motor Sport HD" tvg-logo="http://iphd.tv/service/bulsat/automotorsport-23-04-2019.svg" group-title="Bulgars",BG:Auto Motor Sport HD
+#EXTINF:-1 tvg-id="NatGeo.bg" tvg-name="BG:Auto Motor Sport HD" tvg-logo="http://iphd.tv/service/bulsat/automotorsport-23-04-2019.svg" group-title="Спортни" , Auto Motor Sport HD
 http://stb.iphd.tv:80/live/91858404/7757776/95214.m3u8
-#EXTINF:-1 tvg-name="Diema Sport" tvg-logo="https://www.glebul.com/images/tv-logo/diema-sport-hd.png" , Diema Sport
+#EXTINF:-1 tvg-name="Diema Sport" tvg-logo="https://www.glebul.com/images/tv-logo/diema-sport-hd.png" group-title="Спортни" , Diema Sport
 https://xyzdddd.mizhls.ru/lb/premium465/index.m3u8|Referer=https://cookiewebplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://cookiewebplay.xyz
-#EXTINF:-1 tvg-name="Diema Sport 2" tvg-logo="https://www.glebul.com/images/tv-logo/diema-sport-2-hd.png" , Diema Sport 2
+#EXTINF:-1 tvg-name="Diema Sport 2" tvg-logo="https://www.glebul.com/images/tv-logo/diema-sport-2-hd.png" group-title="Спортни" , Diema Sport 2
 https://xyzdddd.mizhls.ru/lb/premium466/index.m3u8|Referer=https://cookiewebplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://cookiewebplay.xyz
-#EXTINF:-1 tvg-name="Diema Sport 3" tvg-logo="https://www.glebul.com/images/tv-logo/diema-sport-3-hd.png" , Diema Sport 3
+#EXTINF:-1 tvg-name="Diema Sport 3" tvg-logo="https://www.glebul.com/images/tv-logo/diema-sport-3-hd.png" group-title="Спортни" , Diema Sport 3
 https://xyzdddd.mizhls.ru/lb/premium467/index.m3u8|Referer=https://cookiewebplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://cookiewebplay.xyz
-#EXTINF:-1 tvg-name="Max Sport 1 HD" tvg-logo="https://www.glebul.com/images/tv-logo/max-sport-1-hd.png" , Max Sport 1 HD
+#EXTINF:-1 tvg-name="Max Sport 1 HD" tvg-logo="https://www.glebul.com/images/tv-logo/max-sport-1-hd.png" group-title="Спортни" , Max Sport 1 HD
 https://xyzdddd.mizhls.ru/lb/premium472/index.m3u8|Referer=https://cookiewebplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://cookiewebplay.xyz
-#EXTINF:-1 tvg-name="Max Sport 2 HD" tvg-logo="https://www.glebul.com/images/tv-logo/max-sport-2-hd.png" , Max Sport 2 HD
+#EXTINF:-1 tvg-name="Max Sport 2 HD" tvg-logo="https://www.glebul.com/images/tv-logo/max-sport-2-hd.png" group-title="Спортни" , Max Sport 2 HD
 https://xyzdddd.mizhls.ru/lb/premium473/index.m3u8|Referer=https://cookiewebplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://cookiewebplay.xyz
-#EXTINF:-1 tvg-name="Max Sport 3 HD" tvg-logo="https://www.glebul.com/images/tv-logo/max-sport-3-hd.png" , Max Sport 3 HD
+#EXTINF:-1 tvg-name="Max Sport 3 HD" tvg-logo="https://www.glebul.com/images/tv-logo/max-sport-3-hd.png" group-title="Спортни" , Max Sport 3 HD
 https://xyzdddd.mizhls.ru/lb/premium474/index.m3u8|Referer=https://cookiewebplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://cookiewebplay.xyz
-#EXTINF:-1 tvg-name="Max Sport 4 HD" tvg-logo="https://www.glebul.com/images/tv-logo/max-sport-4-hd.png" , Max Sport 4 HD
+#EXTINF:-1 tvg-name="Max Sport 4 HD" tvg-logo="https://www.glebul.com/images/tv-logo/max-sport-4-hd.png" group-title="Спортни" , Max Sport 4 HD
 https://xyzdddd.mizhls.ru/lb/premium475/index.m3u8|Referer=https://cookiewebplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://cookiewebplay.xyz
-#EXTINF:-1 tvg-name="bTV Cinema" tvg-logo="https://www.glebul.com/images/tv-logo/btv-cinema.png" , bTV Cinema HD
+#EXTINF:-1 tvg-name="bTV Cinema" tvg-logo="https://www.glebul.com/images/tv-logo/btv-cinema.png" group-title="Филмови" , bTV Cinema HD
 http://stb.iphd.tv:80/live/91858404/7757776/95279.m3u8
-#EXTINF:-1 tvg-name="bTV Comedy" tvg-logo="https://www.glebul.com/images/tv-logo/btv-comedy.png" , bTV Comedy HD
+#EXTINF:-1 tvg-name="bTV Comedy" tvg-logo="https://www.glebul.com/images/tv-logo/btv-comedy.png" group-title="Филмови" , bTV Comedy HD
 http://stb.iphd.tv:80/live/91858404/7757776/95280.m3u8
-#EXTINF:-1 tvg-name="bTV Story" tvg-logo="https://www.glebul.com/images/tv-logo/btv-story.png" , bTV Story HD
+#EXTINF:-1 tvg-name="bTV Story" tvg-logo="https://www.glebul.com/images/tv-logo/btv-story.png" group-title="Филмови" , bTV Story HD
 https://xyzdddd.mizhls.ru/lb/premium484/index.m3u8|Referer=https://cookiewebplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://cookiewebplay.xyz
-#EXTINF:-1 tvg-name="Diema Family" tvg-logo="https://www.glebul.com/images/tv-logo/diema-family.png" , Diema Family
+#EXTINF:-1 tvg-name="Diema Family" tvg-logo="https://www.glebul.com/images/tv-logo/diema-family.png" group-title="Филмови" , Diema Family
 https://xyzdddd.mizhls.ru/lb/premium485/index.m3u8|Referer=https://cookiewebplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://cookiewebplay.xyz
-#EXTINF:-1 tvg-name="Diema" tvg-logo="https://www.glebul.com/images/tv-logo/diema.png" , Diema 
+#EXTINF:-1 tvg-name="Diema" tvg-logo="https://www.glebul.com/images/tv-logo/diema.png" group-title="Филмови" , Diema 
 https://xyzdddd.mizhls.ru/lb/premium482/index.m3u8|Referer=https://cookiewebplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://cookiewebplay.xyz
-#EXTINF:-1 tvg-name="STAR Crime " tvg-logo="https://www.glebul.com/images/tv-logo/star-crime-hd.png" , STAR Crime HD
+#EXTINF:-1 tvg-name="STAR Crime " tvg-logo="https://www.glebul.com/images/tv-logo/star-crime-hd.png" group-title="Филмови" , STAR Crime HD
 http://stb.iphd.tv:80/live/91858404/7757776/95285.m3u8
-#EXTINF:-1 tvg-name="STAR CHANNEL" tvg-logo="https://www.glebul.com/images/tv-logo/star-channel-hd.png" , STAR CHANNEL HD
+#EXTINF:-1 tvg-name="STAR CHANNEL" tvg-logo="https://www.glebul.com/images/tv-logo/star-channel-hd.png" group-title="Филмови" , STAR CHANNEL HD
 http://stb.iphd.tv:80/live/91858404/7757776/95283.m3u8
-#EXTINF:-1 tvg-name="STAR Life" tvg-logo="https://www.glebul.com/images/tv-logo/star-life-hd.png" , STAR Life HD
+#EXTINF:-1 tvg-name="STAR Life" tvg-logo="https://www.glebul.com/images/tv-logo/star-life-hd.png" group-title="Филмови" , STAR Life HD
 http://stb.iphd.tv:80/live/91858404/7757776/95284.m3u8
-#EXTINF:-1 tvg-name="id extra HD" tvg-logo="https://www.glebul.com/images/tv-logo/id-xtra-hd.png" , ID Extra HD
+#EXTINF:-1 tvg-name="id extra HD" tvg-logo="https://www.glebul.com/images/tv-logo/id-xtra-hd.png" group-title="Филмови" , ID Extra HD
 http://stb.iphd.tv:80/live/91858404/7757776/95291.m3u8
-#EXTINF:-1 tvg-name="KinoNova" tvg-logo="https://www.glebul.com/images/tv-logo/kino-nova.png" , KinoNova
+#EXTINF:-1 tvg-name="KinoNova" tvg-logo="https://www.glebul.com/images/tv-logo/kino-nova.png" group-title="Филмови" , KinoNova
 http://stb.iphd.tv:80/live/91858404/7757776/95274.m3u8
-#EXTINF:-1 tvg-id="MovieStar.bg" tvg-name="BG:Moviestar HD" tvg-logo="http://iphd.tv/service/bulsat/moviestar-23-04-2019.svg" group-title="Bulgars",BG:Moviestar HD
+#EXTINF:-1 tvg-id="MovieStar.bg" tvg-name="BG:Moviestar HD" tvg-logo="http://iphd.tv/service/bulsat/moviestar-23-04-2019.svg" group-title="Филмови" , Moviestar HD
 http://stb.iphd.tv:80/live/91858404/7757776/95293.m3u8
-#EXTINF:-1 tvg-id="FilmBoxExtra.bg" tvg-name="BG:FilmBox Extra HD" tvg-logo="http://iphd.tv/service/bulsat/filmbox_extra-16-02-2021.svg" group-title="Bulgars",BG:FilmBox Extra HD
+#EXTINF:-1 tvg-id="FilmBoxExtra.bg" tvg-name="BG:FilmBox Extra HD" tvg-logo="http://iphd.tv/service/bulsat/filmbox_extra-16-02-2021.svg" group-title="Филмови" , FilmBox Extra HD
 http://stb.iphd.tv:80/live/91858404/7757776/95294.m3u8
-#EXTINF:-1 tvg-id="FilmboxStars.bg" tvg-name="BG:FilmBox Stars HD" tvg-logo="http://iphd.tv/service/bulsat/filmbox_stars-18-02-2021.svg" group-title="Bulgars",BG:FilmBox Stars HD
+#EXTINF:-1 tvg-id="FilmboxStars.bg" tvg-name="BG:FilmBox Stars HD" tvg-logo="http://iphd.tv/service/bulsat/filmbox_stars-18-02-2021.svg" group-title="Филмови" , FilmBox Stars HD
 http://stb.iphd.tv:80/live/91858404/7757776/95295.m3u8
-#EXTINF:-1 tvg-id="FilmboxArthouse.ww" tvg-name="BG:FilmBox Arthouse HD" tvg-logo="http://iphd.tv/service/bulsat/filmbox_arthouse-16-02-2021.svg" group-title="Bulgars",BG:FilmBox Arthouse HD
+#EXTINF:-1 tvg-id="FilmboxArthouse.ww" tvg-name="BG:FilmBox Arthouse HD" tvg-logo="http://iphd.tv/service/bulsat/filmbox_arthouse-16-02-2021.svg" group-title="Филмови", FilmBox Arthouse HD
 http://stb.iphd.tv:80/live/91858404/7757776/95296.m3u8
-#EXTINF:-1 tvg-id="AMC.bg" tvg-name="BG:AMC" tvg-logo="http://iphd.tv/service/bulsat/amc-17-02-2022.svg" group-title="Bulgars",BG:AMC
+#EXTINF:-1 tvg-id="AMC.bg" tvg-name="BG:AMC" tvg-logo="http://iphd.tv/service/bulsat/amc-17-02-2022.svg" group-title="Филмови" , AMC
 http://stb.iphd.tv:80/live/91858404/7757776/95297.m3u8
-#EXTINF:-1 tvg-name="Epic Drama" tvg-logo="https://www.glebul.com/images/tv-logo/epic-drama-hd.png" , Epic Drama HD
+#EXTINF:-1 tvg-name="Epic Drama" tvg-logo="https://www.glebul.com/images/tv-logo/epic-drama-hd.png" group-title="Филмови" , Epic Drama HD
 http://stb.iphd.tv:80/live/91858404/7757776/95298.m3u8
-#EXTINF:-1 tvg-id="HBO.bg" tvg-name="BG:HBO HD" tvg-logo="http://iphd.tv/service/bulsat/hbo-08-02-2021.svg" group-title="Bulgars",BG:HBO HD
+#EXTINF:-1 tvg-id="HBO.bg" tvg-name="BG:HBO HD" tvg-logo="http://iphd.tv/service/bulsat/hbo-08-02-2021.svg" group-title="Филмови" , HBO HD
 http://stb.iphd.tv:80/live/91858404/7757776/95302.m3u8
-#EXTINF:-1 tvg-id="HBO2.bg" tvg-name="BG:HBO2 HD" tvg-logo="http://iphd.tv/service/bulsat/hbo2-08-02-2021.svg" group-title="Bulgars",BG:HBO2 HD
+#EXTINF:-1 tvg-id="HBO2.bg" tvg-name="BG:HBO2 HD" tvg-logo="http://iphd.tv/service/bulsat/hbo2-08-02-2021.svg" group-title="Филмови" , HBO2 HD
 http://stb.iphd.tv:80/live/91858404/7757776/95303.m3u8
-#EXTINF:-1 tvg-id="HBO3.bg" tvg-name="BG:HBO3 HD" tvg-logo="http://iphd.tv/service/bulsat/hbo3-08-02-2021.svg" group-title="Bulgars",BG:HBO3 HD
+#EXTINF:-1 tvg-id="HBO3.bg" tvg-name="BG:HBO3 HD" tvg-logo="http://iphd.tv/service/bulsat/hbo3-08-02-2021.svg" group-title="Филмови", HBO3 HD
 http://stb.iphd.tv:80/live/91858404/7757776/95304.m3u8
-#EXTINF:-1 tvg-id="Cinemax.bg" tvg-name="BG:Cinemax HD" tvg-logo="http://iphd.tv/service/bulsat/cinemax-17-02-2022.svg" group-title="Bulgars",BG:Cinemax HD
+#EXTINF:-1 tvg-id="Cinemax.bg" tvg-name="BG:Cinemax HD" tvg-logo="http://iphd.tv/service/bulsat/cinemax-17-02-2022.svg" group-title="Филмови" , Cinemax HD
 http://stb.iphd.tv:80/live/91858404/7757776/95305.m3u8
-#EXTINF:-1 tvg-id="Cinemax2.bg" tvg-name="BG:Cinemax2 HD" tvg-logo="http://iphd.tv/service/bulsat/cinemax2-17-02-2022.svg" group-title="Bulgars",BG:Cinemax2 HD
+#EXTINF:-1 tvg-id="Cinemax2.bg" tvg-name="BG:Cinemax2 HD" tvg-logo="http://iphd.tv/service/bulsat/cinemax2-17-02-2022.svg" group-title="Филмови" , Cinemax2 HD
 http://stb.iphd.tv:80/live/91858404/7757776/95306.m3u8
-#EXTINF:-1 tvg-name="Planeta HD" tvg-logo="https://www.glebul.com/images/tv-logo/planeta-hd.png" , Planeta HD
+#EXTINF:-1 tvg-name="Planeta HD" tvg-logo="https://www.glebul.com/images/tv-logo/planeta-hd.png" group-title="Музикални" , Planeta HD
 http://stb.iphd.tv:80/live/91858404/7757776/95307.m3u8
-#EXTINF:-1 tvg-id="FANTV.bg" tvg-name="BG:FenTV HD" tvg-logo="http://iphd.tv/service/bulsat/fentv-23-04-2019.svg" group-title="Bulgars",BG:FenTV HD
+#EXTINF:-1 tvg-id="FANTV.bg" tvg-name="BG:FenTV HD" tvg-logo="http://iphd.tv/service/bulsat/fentv-23-04-2019.svg" group-title="Музикални" , FenTV HD
 http://stb.iphd.tv:80/live/91858404/7757776/95309.m3u8
-#EXTINF:-1 tvg-id="Balkanika.bg" tvg-name="BG:Balkanika HD" tvg-logo="http://iphd.tv/service/bulsat/balkanika-23-04-2019.svg" group-title="Bulgars",BG:Balkanika HD
+#EXTINF:-1 tvg-id="Balkanika.bg" tvg-name="BG:Balkanika HD" tvg-logo="http://iphd.tv/service/bulsat/balkanika-23-04-2019.svg" group-title="Музикални" , Balkanika HD
 http://stb.iphd.tv:80/live/91858404/7757776/95310.m3u8
-#EXTINF:-1 tvg-name="Planeta Folk" tvg-logo="https://www.glebul.com/images/tv-logo/planeta-folk.png" , Planeta Folk
+#EXTINF:-1 tvg-name="Planeta Folk" tvg-logo="https://www.glebul.com/images/tv-logo/planeta-folk.png" group-title="Музикални" , Planeta Folk
 http://stb.iphd.tv:80/live/91858404/7757776/95311.m3u8
-#EXTINF:-1 tvg-name="Diema Family" tvg-logo="https://www.glebul.com/images/tv-logo/folklor-tv.png" , Folklor TV HD
+#EXTINF:-1 tvg-name="Diema Family" tvg-logo="https://www.glebul.com/images/tv-logo/folklor-tv.png" group-title="Музикални" , Folklor TV HD
 http://stb.iphd.tv:80/live/91858404/7757776/95312.m3u8
-#EXTINF:-1 tvg-id="NatGeo.bg" tvg-name="BG:Fen Folk TV" tvg-logo="http://iphd.tv/service/bulsat/fentv_folk-23-04-2019.svg" group-title="Bulgars",BG:Fen Folk TV
+#EXTINF:-1 tvg-id="NatGeo.bg" tvg-name="BG:Fen Folk TV" tvg-logo="http://iphd.tv/service/bulsat/fentv_folk-23-04-2019.svg" group-title="Музикални" , Fen Folk TV
 http://stb.iphd.tv:80/live/91858404/7757776/95313.m3u8
-#EXTINF:-1 tvg-name="Rodina TV" tvg-logo="https://www.glebul.com/images/tv-logo/rodina-tv.png" , Rodina TV HD
+#EXTINF:-1 tvg-name="Rodina TV" tvg-logo="https://www.glebul.com/images/tv-logo/rodina-tv.png" group-title="Музикални" , Rodina TV HD
 http://stb.iphd.tv:80/live/91858404/7757776/95314.m3u8
-#EXTINF:-1 tvg-id="NatGeo.bg" tvg-name="BG:Tiankov Folk HD" tvg-logo="http://iphd.tv/service/bulsat/tiankov_folk-23-04-2019.svg" group-title="Bulgars",BG:Tiankov Folk HD
+#EXTINF:-1 tvg-id="NatGeo.bg" tvg-name="BG:Tiankov Folk HD" tvg-logo="http://iphd.tv/service/bulsat/tiankov_folk-23-04-2019.svg" group-title="Музикални" , Tiankov Folk HD
 http://stb.iphd.tv:80/live/91858404/7757776/95315.m3u8
-#EXTINF:-1 tvg-name="DSTV" tvg-logo="https://www.glebul.com/images/tv-logo/dstv.png", DSTV
+#EXTINF:-1 tvg-name="DSTV" tvg-logo="https://www.glebul.com/images/tv-logo/dstv.png" group-title="Музикални" , DSTV
 http://stb.iphd.tv:80/live/91858404/7757776/95317.m3u8
-#EXTINF:-1 tvg-id="NatGeo.bg" tvg-name="BG:HitMix Music HD" tvg-logo="http://iphd.tv/service/bulsat/hit-23-04-2019.svg" group-title="Bulgars",BG:HitMix Music HD
+#EXTINF:-1 tvg-id="NatGeo.bg" tvg-name="BG:HitMix Music HD" tvg-logo="http://iphd.tv/service/bulsat/hit-23-04-2019.svg" group-title="Музикални" , HitMix Music HD
 http://stb.iphd.tv:80/live/91858404/7757776/95318.m3u8
-#EXTINF:-1 tvg-name="The Voice" tvg-logo="https://www.glebul.com/images/tv-logo/the-voice.png" , The Voice HD
+#EXTINF:-1 tvg-name="The Voice" tvg-logo="https://www.glebul.com/images/tv-logo/the-voice.png" group-title="Музикални" , The Voice HD
 http://stb.iphd.tv:80/live/91858404/7757776/95325.m3u8
-#EXTINF:-1 tvg-name="City TV" tvg-logo="https://www.glebul.com/images/tv-logo/city-tv.png" , City TV HD
+#EXTINF:-1 tvg-name="City TV" tvg-logo="https://www.glebul.com/images/tv-logo/city-tv.png" group-title="Музикални" , City TV HD
 http://stb.iphd.tv:80/live/91858404/7757776/95326.m3u8
-#EXTINF:-1 tvg-id="NatGeo.bg" tvg-name="BG:Magic TV HD" tvg-logo="http://iphd.tv/service/bulsat/magictv-23-04-2019.svg" group-title="Bulgars",BG:Magic TV HD
+#EXTINF:-1 tvg-id="NatGeo.bg" tvg-name="BG:Magic TV HD" tvg-logo="http://iphd.tv/service/bulsat/magictv-23-04-2019.svg" group-title="Музикални" , Magic TV HD
 http://stb.iphd.tv:80/live/91858404/7757776/95327.m3u8
 #EXTINF:-1 tvg-name="Discovery Channel" tvg-logo="https://www.glebul.com/images/tv-logo/discovery-channel-hd.png" , Discovery Channel HD
 http://stb.iphd.tv:80/live/91858404/7757776/95234.m3u8
@@ -140,29 +140,29 @@ http://stb.iphd.tv:80/live/91858404/7757776/95250.m3u8
 http://stb.iphd.tv:80/live/91858404/7757776/95251.m3u8
 #EXTINF:-1 tvg-name="TLC" tvg-logo="https://www.glebul.com/images/tv-logo/tlc.png" , TLC HD
 http://stb.iphd.tv:80/live/91858404/7757776/95248.m3u8
-#EXTINF:-1 tvg-id="NatGeo.bg" tvg-name="BG:FashionBox HD" tvg-logo="http://iphd.tv/service/bulsat/fashion_box_hd-07-01-2021.svg" group-title="Bulgars",BG:FashionBox HD
+#EXTINF:-1 tvg-id="NatGeo.bg" tvg-name="BG:FashionBox HD" tvg-logo="http://iphd.tv/service/bulsat/fashion_box_hd-07-01-2021.svg" group-title="Други" , FashionBox HD
 http://stb.iphd.tv:80/live/91858404/7757776/95405.m3u8
-#EXTINF:-1 tvg-name="CodeFashion HD" tvg-logo="https://www.glebul.com/images/tv-logo/code-fashion-tv-hd.png" , CodeFashion HD
+#EXTINF:-1 tvg-name="CodeFashion HD" tvg-logo="https://www.glebul.com/images/tv-logo/code-fashion-tv-hd.png" group-title="Други" , CodeFashion HD
 http://stb.iphd.tv:80/live/91858404/7757776/95406.m3u8
-#EXTINF:-1 tvg-name="Disney channel" tvg-logo="https://www.glebul.com/images/tv-logo/disney-channel.png" , Disney channel
+#EXTINF:-1 tvg-name="Disney channel" tvg-logo="https://www.glebul.com/images/tv-logo/disney-channel.png" group-title="Детски" , Disney channel
 http://stb.iphd.tv:80/live/91858404/7757776/95348.m3u8
-#EXTINF:-1 tvg-name="Cartoon Network" tvg-logo="https://www.glebul.com/images/tv-logo/cartoon-network.png" , Cartoon Network HD
+#EXTINF:-1 tvg-name="Cartoon Network" tvg-logo="https://www.glebul.com/images/tv-logo/cartoon-network.png" group-title="Детски" , Cartoon Network HD
 http://stb.iphd.tv:80/live/91858404/7757776/95349.m3u8
-#EXTINF:-1 tvg-name="Nick Jr" tvg-logo="https://www.glebul.com/images/tv-logo/nick-jr.png" , Nick Jr
+#EXTINF:-1 tvg-name="Nick Jr" tvg-logo="https://www.glebul.com/images/tv-logo/nick-jr.png" group-title="Детски" , Nick Jr
 http://stb.iphd.tv:80/live/91858404/7757776/95350.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BG:Cartoonito HD" tvg-logo="http://iphd.tv/service/bulsat/cartoonito-20-03-2023.svg" group-title="Bulgars",BG:Cartoonito HD
+#EXTINF:-1 tvg-id="" tvg-name="BG:Cartoonito HD" tvg-logo="http://iphd.tv/service/bulsat/cartoonito-20-03-2023.svg" group-title="Bulgars" , Cartoonito HD
 http://stb.iphd.tv:80/live/91858404/7757776/95351.m3u8
 #EXTINF:-1 tvg-name="Nickelodeon" tvg-logo="https://www.glebul.com/images/tv-logo/nickelodeon.png" , Nickelodeon
 http://stb.iphd.tv:80/live/91858404/7757776/95352.m3u8
-#EXTINF:-1 tvg-id="NatGeo.bg" tvg-name="BG:Baby TV" tvg-logo="http://iphd.tv/service/bulsat/babytv-09-04-2020.svg" group-title="Bulgars",BG:Baby TV
+#EXTINF:-1 tvg-id="NatGeo.bg" tvg-name="BG:Baby TV" tvg-logo="http://iphd.tv/service/bulsat/babytv-09-04-2020.svg" group-title="Детски" , Baby TV
 http://stb.iphd.tv:80/live/91858404/7757776/95353.m3u8
-#EXTINF:-1 tvg-id="DisneyJunior.bg" tvg-name="BG:Disney Junior" tvg-logo="http://iphd.tv/service/bulsat/disney_junior-07-04-2020.svg" group-title="Bulgars",BG:Disney Junior
+#EXTINF:-1 tvg-id="DisneyJunior.bg" tvg-name="BG:Disney Junior" tvg-logo="http://iphd.tv/service/bulsat/disney_junior-07-04-2020.svg" group-title="Детски" , Disney Junior
 http://stb.iphd.tv:80/live/91858404/7757776/95354.m3u8
-#EXTINF:-1 tvg-name="Nicktoons" tvg-logo="https://www.glebul.com/images/tv-logo/nicktoons.png" , Nicktoons
+#EXTINF:-1 tvg-name="Nicktoons" tvg-logo="https://www.glebul.com/images/tv-logo/nicktoons.png" group-title="Детски" , Nicktoons
 http://stb.iphd.tv:80/live/91858404/7757776/95355.m3u8
-#EXTINF:-1 tvg-id="NatGeo.bg" tvg-name="BG:SuperToons" tvg-logo="http://iphd.tv/service/bulsat/super_toons-07-01-2021.svg" group-title="Bulgars",BG:SuperToons
+#EXTINF:-1 tvg-id="NatGeo.bg" tvg-name="BG:SuperToons" tvg-logo="http://iphd.tv/service/bulsat/super_toons-07-01-2021.svg" group-title="Детски" , SuperToons
 http://stb.iphd.tv:80/live/91858404/7757776/95356.m3u8
-#EXTINF:-1 tvg-name="EKids" tvg-logo="https://www.glebul.com/images/tv-logo/e-kids.png" , EKids
+#EXTINF:-1 tvg-name="EKids" tvg-logo="https://www.glebul.com/images/tv-logo/e-kids.png" group-title="Детски" , EKids
 http://stb.iphd.tv:80/live/91858404/7757776/95357.m3u8
-#EXTINF:-1 tvg-id="FixFoxi.de" tvg-name="BG:Fix & Foxi" tvg-logo="http://iphd.tv/service/bulsat/fix_and_foxi-23-04-2019.svg" group-title="Bulgars",BG:Fix & Foxi
+#EXTINF:-1 tvg-id="FixFoxi.de" tvg-name="BG:Fix & Foxi" tvg-logo="http://iphd.tv/service/bulsat/fix_and_foxi-23-04-2019.svg" group-title="Детски" , Fix & Foxi
 http://stb.iphd.tv:80/live/91858404/7757776/95358.m3u8
