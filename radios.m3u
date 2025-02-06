@@ -37,8 +37,6 @@ http://149.13.0.81:8000/radio1.aac
 http://149.13.0.81:8000/radio1rock.aac
 #EXTINF:-1 id="radioritmomix" logo="http://livebgtv.stream/logos/radioritmomix.png" radio="true",Radio Ritmo Mix
 http://live.radioritmo.eu:8090/;stream.mp3
-#EXTINF:-1 id="radiodobrudja" logo="http://livebgtv.stream/logos/radiodobrudja.png" radio="true",Radio Dobrudja
-http://5.104.174.128:8000/radiodobrudja?mp3
 #EXTINF:-1 id="radiofmplus" logo="http://livebgtv.stream/logos/radiofmplus.png" radio="true",Radio FM Plus
 http://193.108.24.21:8000/fmplus?mp3
 #EXTINF:-1 id="radiofresh" logo="http://livebgtv.stream/logos/radiofresh.png" radio="true",Radio Fresh
@@ -56,15 +54,15 @@ http://88.80.96.25:8000/;stream.mp3
 #EXTINF:-1 id="radioveronika" logo="http://livebgtv.stream/logos/radioveronika.png" radio="true",Radio Veronika
 http://149.13.0.81:8000/veronika.aac
 #EXTINF:-1 id="radioveselina" logo="http://livebgtv.stream/logos/radioveselina.png" radio="true",Radio Veselina
-https://raw.githubusercontent.com/belchew/General/refs/heads/main/veselina.m3u8
+https://bss1.neterra.tv/veselina/stream_0.m3u8
 #EXTINF:-1 id="radiovitosha" logo="http://livebgtv.stream/logos/radiovitosha.png" radio="true",Radio Vitosha
 https://bss.neterra.tv/rtplive/vitosharadio_live.stream/playlist.m3u8
 #EXTINF:-1 id="magicfmradio" logo="http://livebgtv.stream/logos/magicfm.png" radio="true",Magic FM Radio
-https://bss.neterra.tv/rtplive/magicfmradio_live.stream/playlist.m3u8
+https://bss1.neterra.tv/magicfm/magicfm.m3u8
 #EXTINF:-1 id="radiozrock" logo="http://livebgtv.stream/logos/zrock.png" radio="true",Radio Z-Rock
-http://live.btvradio.bg/z-rock.mp3
+https://bravo.btv.bg/radio/zrock-radio-proxy/
 #EXTINF:-1 id="focusradio" logo="http://livebgtv.stream/logos/focusradio.png" radio="true",Focus Radio
-http://online.focus-radio.net:8100/sofia?mp3
+http://online.focus-radio.net:8100/sofia
 #EXTINF:-1 id="radio999" logo="http://livebgtv.stream/logos/radio999.png" radio="true",Radio 999
 http://62.204.158.5:8081/live?mp3
 #EXTINF:-1 id="bnrhorizont" logo="http://livebgtv.stream/logos/bnrhorizont.png" radio="true",BNR Horizont
