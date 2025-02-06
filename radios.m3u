@@ -60,7 +60,7 @@ https://bss.neterra.tv/rtplive/vitosharadio_live.stream/playlist.m3u8
 #EXTINF:-1 id="magicfmradio" logo="http://livebgtv.stream/logos/magicfm.png" radio="true",Magic FM Radio
 https://bss1.neterra.tv/magicfm/magicfm.m3u8
 #EXTINF:-1 id="radiozrock" logo="http://livebgtv.stream/logos/zrock.png" radio="true",Radio Z-Rock
-https://bravo.btv.bg/radio/zrock-radio-proxy/
+https://cdn.bweb.bg/radio/z-rock.mp3
 #EXTINF:-1 id="focusradio" logo="http://livebgtv.stream/logos/focusradio.png" radio="true",Focus Radio
 http://online.focus-radio.net:8100/sofia
 #EXTINF:-1 id="radio999" logo="http://livebgtv.stream/logos/radio999.png" radio="true",Radio 999
