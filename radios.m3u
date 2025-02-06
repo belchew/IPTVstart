@@ -1,0 +1,75 @@
+#EXTM3U
+#EXTINF:-1 id="alfaradio" logo="http://livebgtv.stream/logos/alpharadio.png" radio="true",Alfa Radio
+http://188.126.1.25:8000/live?mp3
+#EXTINF:-1 id="bgradio" logo="http://livebgtv.stream/logos/bgradio.png" radio="true",BG Radio
+http://149.13.0.81/bgradio.aac
+#EXTINF:-1 id="btvradio" logo="http://livebgtv.stream/logos/btvradio.png" radio="true",BTV Radio
+http://46.10.150.123/btv-radio.mp3
+#EXTINF:-1 id="radiok2" logo="http://livebgtv.stream/logos/radiok2.png" radio="true",Radio K2
+http://stream.radiok2.bg:8000/rk2
+#EXTINF:-1 id="orvradio" logo="http://livebgtv.stream/logos/orvradio.png" radio="true",ORV Radio
+http://radio.orvmedia.com:8005/stream?mp3
+#EXTINF:-1 id="folkradionazdrave" logo="http://livebgtv.stream/logos/folkradionazdrave.png" radio="true",Folk Radio Nazdrave
+http://powerdj.sf.ddns.bulsat.com:8066/
+#EXTINF:-1 id="radiocity" logo="http://livebgtv.stream/logos/city.png" radio="true",Radio City
+http://149.13.0.81:8000/city.aac
+#EXTINF:-1 id="radionovanews" logo="http://livebgtv.stream/logos/radionovanews.png" radio="true",Radio Nova News
+http://149.13.0.80/novanews.aac
+#EXTINF:-1 id="darikradio" logo="http://livebgtv.stream/logos/darikradio.png" radio="true",Darik Radio
+http://darikradio.by.host.bg:8000/S1-96?mp3
+#EXTINF:-1 id="jazzfmradio" logo="http://livebgtv.stream/logos/jazzfmradio.png" radio="true",Jazz FM Radio
+http://live.btvradio.bg/jazz-fm.mp3
+#EXTINF:-1 id="katrafmradio" logo="http://livebgtv.stream/logos/katrafmradio.png" radio="true",Katra FM Radio
+http://www.katrafm.net:8000/live?mp3
+#EXTINF:-1 id="radiomixx" logo="http://livebgtv.stream/logos/radiomixx.png" radio="true",Radio Mixx
+http://83.97.65.98:9000/stream/1/;stream.mp3
+#EXTINF:-1 id="radionjoy" logo="http://livebgtv.stream/logos/radionjoy.png" radio="true",Radio N-Joy
+http://live.btvradio.bg/njoy.mp3
+#EXTINF:-1 id="powerfmradio" logo="http://livebgtv.stream/logos/powerfmradio.png" radio="true",Power FM Radio
+http://a1.virtualradio.eu:8000/powerfm.mp3
+#EXTINF:-1 id="radionova" logo="http://livebgtv.stream/logos/radionova.png" radio="true",Radio Nova
+http://149.13.0.81:8000/nova.aac
+#EXTINF:-1 id="radionrj" logo="http://livebgtv.stream/logos/radionrj.png" radio="true",Radio NRJ
+http://149.13.0.81:8000/nrj.aac
+#EXTINF:-1 id="radio1" logo="http://livebgtv.stream/logos/radio1.png" radio="true",Radio 1
+http://149.13.0.81:8000/radio1.aac
+#EXTINF:-1 id="radio1rock" logo="http://livebgtv.stream/logos/radio1rock.png" radio="true",Radio 1 Rock
+http://149.13.0.81:8000/radio1rock.aac
+#EXTINF:-1 id="radioritmomix" logo="http://livebgtv.stream/logos/radioritmomix.png" radio="true",Radio Ritmo Mix
+http://live.radioritmo.eu:8090/;stream.mp3
+#EXTINF:-1 id="radiodobrudja" logo="http://livebgtv.stream/logos/radiodobrudja.png" radio="true",Radio Dobrudja
+http://5.104.174.128:8000/radiodobrudja?mp3
+#EXTINF:-1 id="radiofmplus" logo="http://livebgtv.stream/logos/radiofmplus.png" radio="true",Radio FM Plus
+http://193.108.24.21:8000/fmplus?mp3
+#EXTINF:-1 id="radiofresh" logo="http://livebgtv.stream/logos/radiofresh.png" radio="true",Radio Fresh
+http://193.108.24.21:8000/fresh?mp3
+#EXTINF:-1 id="tangramegarock" logo="http://livebgtv.stream/logos/tangramegarock.png" radio="true",Tangra Mega Rock
+http://stream-bg-01.radiotangra.com:8000/Tangra.ogg
+#EXTINF:-1 id="trafficradio" logo="http://livebgtv.stream/logos/trafficradio.png" radio="true",Traffic Radio
+http://212.25.58.203:8002/;stream.mp3
+#EXTINF:-1 id="tvoetoradio" logo="http://livebgtv.stream/logos/tvoetoradio.png" radio="true",Tvoeto Radio
+http://79.98.108.173:8010/radio?mp3
+#EXTINF:-1 id="radiovega" logo="http://livebgtv.stream/logos/radiovega.png" radio="true",Radio Vega
+http://88.80.96.25:8040/;stream.mp3
+#EXTINF:-1 id="radioultra" logo="http://livebgtv.stream/logos/radioultra.png" radio="true",Radio Ultra
+http://88.80.96.25:8000/;stream.mp3
+#EXTINF:-1 id="radioveronika" logo="http://livebgtv.stream/logos/radioveronika.png" radio="true",Radio Veronika
+http://149.13.0.81:8000/veronika.aac
+#EXTINF:-1 id="radioveselina" logo="http://livebgtv.stream/logos/radioveselina.png" radio="true",Radio Veselina
+https://raw.githubusercontent.com/belchew/General/refs/heads/main/veselina.m3u8
+#EXTINF:-1 id="radiovitosha" logo="http://livebgtv.stream/logos/radiovitosha.png" radio="true",Radio Vitosha
+https://bss.neterra.tv/rtplive/vitosharadio_live.stream/playlist.m3u8
+#EXTINF:-1 id="magicfmradio" logo="http://livebgtv.stream/logos/magicfm.png" radio="true",Magic FM Radio
+https://bss.neterra.tv/rtplive/magicfmradio_live.stream/playlist.m3u8
+#EXTINF:-1 id="radiozrock" logo="http://livebgtv.stream/logos/zrock.png" radio="true",Radio Z-Rock
+http://live.btvradio.bg/z-rock.mp3
+#EXTINF:-1 id="focusradio" logo="http://livebgtv.stream/logos/focusradio.png" radio="true",Focus Radio
+http://online.focus-radio.net:8100/sofia?mp3
+#EXTINF:-1 id="radio999" logo="http://livebgtv.stream/logos/radio999.png" radio="true",Radio 999
+http://62.204.158.5:8081/live?mp3
+#EXTINF:-1 id="bnrhorizont" logo="http://livebgtv.stream/logos/bnrhorizont.png" radio="true",BNR Horizont
+http://stream.bnr.bg:8102/horizont_low.mp3
+#EXTINF:-1 id="bnrhristobotev" logo="http://livebgtv.stream/logos/bnrhristobotev.png" radio="true",BNR Hristo Botev
+http://stream.bnr.bg:8103/botev_low.mp3
+#EXTINF:-1 id="bnrsofia" logo="http://livebgtv.stream/logos/bnrsofia.png" radio="true",BNR Sofia
+http://stream.bnr.bg:8105/sofia_low.mp3
