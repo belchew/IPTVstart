@@ -150,7 +150,7 @@ http://stb.iphd.tv:80/live/91858404/7757776/95348.m3u8
 http://stb.iphd.tv:80/live/91858404/7757776/95349.m3u8
 #EXTINF:-1 tvg-name="Nick Jr" tvg-logo="https://www.glebul.com/images/tv-logo/nick-jr.png" group-title="Детски" , Nick Jr
 http://stb.iphd.tv:80/live/91858404/7757776/95350.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BG:Cartoonito HD" tvg-logo="http://iphd.tv/service/bulsat/cartoonito-20-03-2023.svg" group-title="Bulgars" , Cartoonito HD
+#EXTINF:-1 tvg-id="" tvg-name="BG:Cartoonito HD" tvg-logo="http://iphd.tv/service/bulsat/cartoonito-20-03-2023.svg" group-title="Детски" , Cartoonito HD
 http://stb.iphd.tv:80/live/91858404/7757776/95351.m3u8
 #EXTINF:-1 tvg-name="Nickelodeon" tvg-logo="https://www.glebul.com/images/tv-logo/nickelodeon.png" , Nickelodeon
 http://stb.iphd.tv:80/live/91858404/7757776/95352.m3u8
