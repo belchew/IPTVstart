@@ -126,19 +126,19 @@ http://stb.iphd.tv:80/live/91858404/7757776/95325.m3u8
 http://stb.iphd.tv:80/live/91858404/7757776/95326.m3u8
 #EXTINF:-1 tvg-id="NatGeo.bg" tvg-name="BG:Magic TV HD" tvg-logo="http://iphd.tv/service/bulsat/magictv-23-04-2019.svg" group-title="Музикални" , Magic TV HD
 http://stb.iphd.tv:80/live/91858404/7757776/95327.m3u8
-#EXTINF:-1 tvg-name="Discovery Channel" tvg-logo="https://www.glebul.com/images/tv-logo/discovery-channel-hd.png" , Discovery Channel HD
+#EXTINF:-1 tvg-name="Discovery Channel" tvg-logo="https://www.glebul.com/images/tv-logo/discovery-channel-hd.png" group-title="Научни" , Discovery Channel HD
 http://stb.iphd.tv:80/live/91858404/7757776/95234.m3u8
-#EXTINF:-1 tvg-name="National Geographic" tvg-logo="https://www.glebul.com/images/tv-logo/nat-geo-hd.png" , National Geographic HD
+#EXTINF:-1 tvg-name="National Geographic" tvg-logo="https://www.glebul.com/images/tv-logo/nat-geo-hd.png" group-title="Научни" , National Geographic HD
 http://stb.iphd.tv:80/live/91858404/7757776/95239.m3u8
-#EXTINF:-1 tvg-name="Nat Geo Wild" tvg-logo="https://www.glebul.com/images/tv-logo/nat-geo-wild-hd.png" , Nat Geo Wild HD
+#EXTINF:-1 tvg-name="Nat Geo Wild" tvg-logo="https://www.glebul.com/images/tv-logo/nat-geo-wild-hd.png" group-title="Научни" , Nat Geo Wild HD
 http://stb.iphd.tv:80/live/91858404/7757776/95240.m3u8
-#EXTINF:-1 tvg-name="Travel Channel" tvg-logo="https://www.glebul.com/images/tv-logo/travel-channel-hd.png" , Travel Channel 
+#EXTINF:-1 tvg-name="Travel Channel" tvg-logo="https://www.glebul.com/images/tv-logo/travel-channel-hd.png" group-title="Научни" , Travel Channel 
 http://stb.iphd.tv:80/live/91858404/7757776/95245.m3u8
-#EXTINF:-1 tvg-name="24 Kitchen" tvg-logo="https://www.glebul.com/images/tv-logo/24-kitchen-hd.png" , 24 Kitchen HD
+#EXTINF:-1 tvg-name="24 Kitchen" tvg-logo="https://www.glebul.com/images/tv-logo/24-kitchen-hd.png" group-title="Други" , 24 Kitchen HD
 http://stb.iphd.tv:80/live/91858404/7757776/95250.m3u8
-#EXTINF:-1 tvg-name="Food Network" tvg-logo="https://www.glebul.com/images/tv-logo/food-network-hd.png" , Food Network HD
+#EXTINF:-1 tvg-name="Food Network" tvg-logo="https://www.glebul.com/images/tv-logo/food-network-hd.png" group-title="Други" , Food Network HD
 http://stb.iphd.tv:80/live/91858404/7757776/95251.m3u8
-#EXTINF:-1 tvg-name="TLC" tvg-logo="https://www.glebul.com/images/tv-logo/tlc.png" , TLC HD
+#EXTINF:-1 tvg-name="TLC" tvg-logo="https://www.glebul.com/images/tv-logo/tlc.png" group-title="Други" , TLC HD
 http://stb.iphd.tv:80/live/91858404/7757776/95248.m3u8
 #EXTINF:-1 tvg-id="NatGeo.bg" tvg-name="BG:FashionBox HD" tvg-logo="http://iphd.tv/service/bulsat/fashion_box_hd-07-01-2021.svg" group-title="Други" , FashionBox HD
 http://stb.iphd.tv:80/live/91858404/7757776/95405.m3u8
@@ -152,7 +152,7 @@ http://stb.iphd.tv:80/live/91858404/7757776/95349.m3u8
 http://stb.iphd.tv:80/live/91858404/7757776/95350.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BG:Cartoonito HD" tvg-logo="http://iphd.tv/service/bulsat/cartoonito-20-03-2023.svg" group-title="Детски" , Cartoonito HD
 http://stb.iphd.tv:80/live/91858404/7757776/95351.m3u8
-#EXTINF:-1 tvg-name="Nickelodeon" tvg-logo="https://www.glebul.com/images/tv-logo/nickelodeon.png" , Nickelodeon
+#EXTINF:-1 tvg-name="Nickelodeon" tvg-logo="https://www.glebul.com/images/tv-logo/nickelodeon.png" group-title="Детски" , Nickelodeon
 http://stb.iphd.tv:80/live/91858404/7757776/95352.m3u8
 #EXTINF:-1 tvg-id="NatGeo.bg" tvg-name="BG:Baby TV" tvg-logo="http://iphd.tv/service/bulsat/babytv-09-04-2020.svg" group-title="Детски" , Baby TV
 http://stb.iphd.tv:80/live/91858404/7757776/95353.m3u8
