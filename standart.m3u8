@@ -31,7 +31,7 @@ https://xyzdddd.mizhls.ru/lb/premium484/index.m3u8|Referer=https://cookiewebplay
 http://stb.iphd.tv:80/live/91858404/7757776/95279.m3u8
 
 #EXTINF:-1 tvg-id="bTVComedy.bg" tvg-name="BG:bTV Comedy" tvg-logo="http://iphd.tv/service/bulsat/btv_comedy-23-04-2019.svg" group-title="Bulgars",BG:bTV Comedy
-http://stb.iphd.tv:80/live/91858404/7757776/95280.m3u8
+https://cdn1.mobiletv.bg/T5/btvcomedy/btvcomedy_794613_850k.m3u8
 
 #EXTINF:-1 tvg-id="hd.traveltv.bg" tvg-name="hd.traveltv.bg" group-title="News",This is Bulgaria
 https://streamer103.neterra.tv/thisisbulgaria/live.m3u8 
