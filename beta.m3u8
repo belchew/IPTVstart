@@ -1,11 +1,11 @@
 #EXTM3U catchup="flussonic" url-tvg="https://github.com/harrygg/EPG/raw/refs/heads/master/all-2days.details.epg.xml.gz"
-#EXTINF:-1 tvg-name="¡Õ“ 1" tvg-logo="https://www.glebul.com/images/tv-logo/bnt-1-hd.png" group-title="≈‘»–Õ»" , ¡Õ“ 1 HD
+#EXTINF:-1 tvg-name="BNT 1" tvg-logo="https://www.glebul.com/images/tv-logo/bnt-1-hd.png" group-title="≈‘»–Õ»" , BNT 1 HD
 https://cdn.stgledai.org:8082/hls/bnt/index.m3u8?token=edbdef726000cc208ff69912e049d72f51801297-4bb702a2ff07af0ee3714cf2ac588046-1739285703-1739274903
-#EXTINF:-1 tvg-name="¡Õ“ 2" tvg-logo="https://www.glebul.com/images/tv-logo/bnt-2.png" group-title="≈‘»–Õ»" , ¡Õ“ 2
+#EXTINF:-1 tvg-name="BNT 2" tvg-logo="https://www.glebul.com/images/tv-logo/bnt-2.png" group-title="≈‘»–Õ»" , BNT 2
 https://cdn10.stgledai.org/bnt2/index.m3u8?token=bebd28244582f08b39d0d0fe87a844d8daa87d4b-9f26856a5083e76b73d39e1e937c89a1-1739285715-1739274915
-#EXTINF:-1 tvg-name="¡Õ“ 3" tvg-logo="https://www.glebul.com/images/tv-logo/bnt-3-hd.png" group-title="≈‘»–Õ»" , ¡Õ“ 3
+#EXTINF:-1 tvg-name="BNT 3" tvg-logo="https://www.glebul.com/images/tv-logo/bnt-3-hd.png" group-title="≈‘»–Õ»" , BNT 3
 https://cdn13.stgledai.org/bnthd/index.m3u8?token=810fac1f8ead73b56e03febf2ffa32c8b427578c-5823b1ee50f8b4b583119bc1fcb4c13c-1739285727-1739274927
-#EXTINF:-1 tvg-name="¡Õ“ 4" tvg-logo="https://www.glebul.com/images/tv-logo/bnt-4.png" group-title="≈‘»–Õ»" , ¡Õ“ 4 HD
+#EXTINF:-1 tvg-name="BNT 4" tvg-logo="https://www.glebul.com/images/tv-logo/bnt-4.png" group-title="≈‘»–Õ»" , BNT 4 HD
 https://cdn9.stgledai.org/bnt4/index.m3u8?token=317324df3a147f92092bbf07884adf618abf73ed-9dc244d5de5ce6e74a2d6002ff75c968-1739285738-1739274938
 #EXTINF:-1 tvg-name="Nova TV" tvg-logo="https://www.glebul.com/images/tv-logo/nova-tv-hd.png" group-title="≈‘»–Õ»" , NovaTV
 https://cdn11.stgledai.org/nova/index.m3u8?token=2756d2cb9cb6bccdfb3736a08bfef18890436564-b1f536cf53cda130f7deae43c2b6350c-1739285750-1739274950
