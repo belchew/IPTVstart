@@ -1,4 +1,4 @@
-#EXTM3U catchup="flussonic" url-tvg="https://github.com/harrygg/EPG/raw/refs/heads/master/all-2days.details.epg.xml.gz"
+#EXTM3U
 #EXTINF:-1 tvg-name="BNT 1" tvg-logo="https://www.glebul.com/images/tv-logo/bnt-1-hd.png" group-title="ЕФИРНИ" , BNT 1 HD
 https://cdn8.stgledai.org/bnt/index.m3u8?token=c9ddcde16fc7dd196e1f9ab14817ba0240c11b23-4c26360a990207f9fbc8c020cdc8f0b1-1739314504-1739303704
 #EXTINF:-1 tvg-name="BNT 3" tvg-logo="https://www.glebul.com/images/tv-logo/bnt-3-hd.png" group-title="ЕФИРНИ" , BNT 3
