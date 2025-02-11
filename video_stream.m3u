@@ -5,7 +5,7 @@ https://cdn8.stgledai.org/bnt/index.m3u8?token=c9ddcde16fc7dd196e1f9ab14817ba024
 https://cdn13.stgledai.org/bnthd/index.m3u8?token=40be43a58585c858a79fcaafb61a5ef91bd7a679-4e0f98727ed68216fd11c1e6180f5e9c-1739314531-1739303731
 #EXTINF:-1 tvg-name="BNT 4" tvg-logo="https://www.glebul.com/images/tv-logo/bnt-4.png" group-title="ЕФИРНИ" , BNT 4 HD
 https://cdn8.stgledai.org/bnt4/index.m3u8?token=f43b009ed8c45269bf62c40434d4a405a787d5f3-52de692f0ed34f992cdf0976375dc9b6-1739314551-1739303751
-#EXTINF:-1 tvg-name="bTV" tvg-logo="https://www.glebul.com/images/tv-logo/btv-hd.png" group-title="ЕФИРНИ" , bTV HDCinema
+#EXTINF:-1 tvg-name="bTV Cinema" tvg-logo="https://www.glebul.com/images/tv-logo/btv-cinema.png" group-title="Филмови" , bTV Cinema HD
 https://cdn13.stgledai.org/btvcinema/index.m3u8?token=52456ee7ded2819ccb5ddac4e0216335f4be6006-a2a9b3fd0832444487bbca06b2b3994d-1739314621-1739303821
 #EXTINF:-1 tvg-name="KinoNova" tvg-logo="https://www.glebul.com/images/tv-logo/kino-nova.png" group-title="Филмови" , KinoNova
 https://cdn13.stgledai.org/kino/index.m3u8?token=ca9c99c2403ed0ef9c221677c1e5142d60bfbad6-c80ae993f505d7f907fd765e798b8d4d-1739314658-1739303858
