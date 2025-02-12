@@ -70,11 +70,11 @@ https://cdn13.stgledai.org/balkanika/index.m3u8?token=c578d4206c2473d365e5ef1004
 https://cdn13.stgledai.org/planetahd/index.m3u8?token=65c152763041bc760f232ec5cdf3f243497325dc-726f14e605114b2e6a9d81b44f5b450c-1739350934-1739340134
 #EXTINF:-1 tvg-name="Planeta Folk" tvg-logo="https://www.glebul.com/images/tv-logo/planeta-folk.png" group-title="Музикални" , Planeta Folk
 https://cdn11.stgledai.org/planetafolk/index.m3u8?token=44fdae0215eb2aa8237d511ff58bdc6274a27d21-254e9baa042b261c7a27c848818fae21-1739350945-1739340145
-#EXTINF:-1 tvg-name="Diema Sport" tvg-logo="https://www.glebul.com/images/tv-logo/diema-sport-hd.png" group-title="Спортни" , Diema Sport
+#EXTINF:-1 tvg-name="Diema" tvg-logo="https://www.glebul.com/images/tv-logo/diema.png" group-title="Филмови" , DiemaSport
 https://cdn9.stgledai.org/diemasport/index.m3u8?token=1f6d51affeca533fb5b09ea4245c9b00ffc0a50c-3663c896a01eaef7aadd711410ce6fbc-1739350980-1739340180
-#EXTINF:-1 tvg-name="Diema Sport" tvg-logo="https://www.glebul.com/images/tv-logo/diema-sport-hd.png" group-title="Спортни" , Diema Sport2
+#EXTINF:-1 tvg-name="Diema Sport 2" tvg-logo="https://www.glebul.com/images/tv-logo/diema-sport-2-hd.png" group-title="Спортни" , Diema Sport 2
 https://cdn11.stgledai.org/diemasport2/index.m3u8?token=d1c72b3322b707f143c10d0790577e17428ed6c1-0ac6bd8422c8ebf1fd7c2905e81202a4-1739350992-1739340192
-#EXTINF:-1 tvg-name="Diema Sport" tvg-logo="https://www.glebul.com/images/tv-logo/diema-sport-hd.png" group-title="Спортни" , Diema Sport3
+#EXTINF:-1 tvg-name="Diema Sport 3" tvg-logo="https://www.glebul.com/images/tv-logo/diema-sport-3-hd.png" group-title="Спортни" , Diema Sport 3
 https://cdn8.stgledai.org/diemasport3/index.m3u8?token=eedf91ff3d2e7eb2db7ceddeb4c4074330f56fe1-41dca8dab7b201c8a8b677c99524971f-1739351003-1739340203
 #EXTINF:-1 tvg-name="Max Sport 1 HD" tvg-logo="https://www.glebul.com/images/tv-logo/max-sport-1-hd.png" group-title="Спортни" , Max Sport 1 HD
 https://cdn8.stgledai.org/mtelsport/index.m3u8?token=abea80448c2769d164ff1d4834198510f9490ca7-ff284b9244db2ce6f94865b71ccd8e7f-1739351015-1739340215
