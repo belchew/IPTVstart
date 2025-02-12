@@ -84,7 +84,7 @@ https://cdn13.stgledai.org/mtelsport2/index.m3u8?token=9bf618511a8ab1df467bb1c94
 https://cdn9.stgledai.org/mtelsport3/index.m3u8?token=6e8dd7390c806c243cc4a7202008a959f079c2a0-7105f77dc0d25987abb4a04cb2ed848e-1739351038-1739340238
 #EXTINF:-1 tvg-name="Max Sport 4 HD" tvg-logo="https://www.glebul.com/images/tv-logo/max-sport-4-hd.png" group-title="Спортни" , Max Sport 4 HD
 https://cdn8.stgledai.org/mtelsport4/index.m3u8?token=7a35da9131b443f4dde325faa2bf0850998e4efb-7096426ca004ddfc778e3d4a994a894f-1739351049-1739340249
-#EXTINF:-1 tvg-name="Nova TV" tvg-logo="https://www.glebul.com/images/tv-logo/nova-tv-hd.png" group-title="ЕФИРНИ" , NovaTVSport
+#EXTINF:-1 tvg-name="Nova Sport" tvg-logo="https://www.glebul.com/images/tv-logo/nova-sport-hd.png" group-title="Спортни" , Nova Sport HD
 https://cdn11.stgledai.org/novasport/index.m3u8?token=0dd913a0a65a2d1b5e0bcbd08281d5348d34e888-6f971e43bc4a80640a19649c244364d1-1739351061-1739340261
 #EXTINF:-1 tvg-name="Ring BG" tvg-logo="https://www.glebul.com/images/tv-logo/ring-bg-hd.png" group-title="Спортни" , Ring BG
 https://cdn8.stgledai.org/ringbg/index.m3u8?token=e5df1c782bc0e5c3fe690326560942780acc85ed-25587d66b8587b6fda46446d80798ca8-1739351073-1739340273
