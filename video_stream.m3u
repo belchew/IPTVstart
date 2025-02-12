@@ -70,7 +70,7 @@ https://cdn13.stgledai.org/balkanika/index.m3u8?token=c578d4206c2473d365e5ef1004
 https://cdn13.stgledai.org/planetahd/index.m3u8?token=65c152763041bc760f232ec5cdf3f243497325dc-726f14e605114b2e6a9d81b44f5b450c-1739350934-1739340134
 #EXTINF:-1 tvg-name="Planeta Folk" tvg-logo="https://www.glebul.com/images/tv-logo/planeta-folk.png" group-title="Музикални" , Planeta Folk
 https://cdn11.stgledai.org/planetafolk/index.m3u8?token=44fdae0215eb2aa8237d511ff58bdc6274a27d21-254e9baa042b261c7a27c848818fae21-1739350945-1739340145
-#EXTINF:-1 tvg-name="Diema" tvg-logo="https://www.glebul.com/images/tv-logo/diema.png" group-title="Филмови" , DiemaSport
+#EXTINF:-1 tvg-name="Diema Sport" tvg-logo="https://www.glebul.com/images/tv-logo/diema-sport-hd.png" group-title="Спортни" , Diema Sport
 https://cdn9.stgledai.org/diemasport/index.m3u8?token=1f6d51affeca533fb5b09ea4245c9b00ffc0a50c-3663c896a01eaef7aadd711410ce6fbc-1739350980-1739340180
 #EXTINF:-1 tvg-name="Diema Sport 2" tvg-logo="https://www.glebul.com/images/tv-logo/diema-sport-2-hd.png" group-title="Спортни" , Diema Sport 2
 https://cdn11.stgledai.org/diemasport2/index.m3u8?token=d1c72b3322b707f143c10d0790577e17428ed6c1-0ac6bd8422c8ebf1fd7c2905e81202a4-1739350992-1739340192
