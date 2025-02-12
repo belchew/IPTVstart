@@ -40,7 +40,7 @@ https://cdn11.stgledai.org/filmboxextra/index.m3u8?token=582aff7196131422ad64058
 https://cdn13.stgledai.org/moviestar/index.m3u8?token=6706e9dc3cc6259b5f1070a5e740af6bff4447e3-e9a8c703b44775492923eba420055ae6-1739359558-1739348758
 #EXTINF:-1 tvg-id="AMC.bg" tvg-name="AMC" tvg-logo="http://iphd.tv/service/bulsat/amc-17-02-2022.svg" group-title="Филмови" , AMC
 https://cdn8.stgledai.org/amc/index.m3u8?token=7d1b35b29ea714fa6ef65d0096d0601eafe3bb97-7907cef2dec03f4e49804928d6494a4e-1739359570-1739348770
-#EXTINF:-1 tvg-id="AXN.bg" tvg-name="AXN" tvg-logo="http://iphd.tv/service/bulsat/axn-23-04-2019.svg" group-title="Филмови" , AXN
+#EXTINF:-1 tvg-id="AXN.bg" tvg-name="AXN" tvg-logo="https://www.glebul.com/images/tv-logo/axn.png" group-title="Филмови" , AXN
 https://cdn10.stgledai.org/axn/index.m3u8?token=5d642330c94007925af38811af31ce178caa35b2-471a8ac7783404f8972358299d717f1c-1739359582-1739348782
 #EXTINF:-1 tvg-name="24 Kitchen" tvg-logo="https://www.glebul.com/images/tv-logo/24-kitchen-hd.png" group-title="Други" , 24 Kitchen HD
 https://cdn9.stgledai.org/24kitchen/index.m3u8?token=b4f8ed023c367b3f4c71c18438aba6fc65ea329c-95df5a5b82c9bd9d97a27ebbac54267a-1739359594-1739348794
