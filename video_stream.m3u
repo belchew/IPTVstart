@@ -62,15 +62,15 @@ https://cdn11.stgledai.org/viasat_nature/index.m3u8?token=810bbcaf1dfe4c33db29b5
 https://cdn9.stgledai.org/animalplanet/index.m3u8?token=b686659134c2e7d809e43d629f6bb812d887417c-2c48de613f5ca614b2b366daf00d2346-1739359687-1739348887
 #EXTINF:-1 tvg-name="TLC" tvg-logo="https://www.glebul.com/images/tv-logo/tlc.png" group-title="Други" , TLC HD
 https://cdn9.stgledai.org/tlc/index.m3u8?token=578231432925337d221a0cc31f67351e2cb6e5dc-8613cadd681a569568a3e7353ca1946b-1739359711-1739348911
-#EXTINF:-1,CartoonNetwork
+#EXTINF:-1 tvg-name="Cartoon Network" tvg-logo="https://www.glebul.com/images/tv-logo/cartoon-network.png" group-title="Детски" , Cartoon Network HD
 https://cdn11.stgledai.org/cartoon/index.m3u8?token=c60bf8e3ccb61d5c4580989f76e44dcd0b3f88ef-96ae7104d95347f19c6f94e39523476a-1739359723-1739348923
-#EXTINF:-1,Disney
+#EXTINF:-1 tvg-name="Disney channel" tvg-logo="https://www.glebul.com/images/tv-logo/disney-channel.png" group-title="Детски" , Disney channel
 https://cdn8.stgledai.org/disney/index.m3u8?token=2a1108e7e0f6c5f4a2147706057c35cbd065a050-3ebc24a2186409e80b8b4545e2852db3-1739359735-1739348935
-#EXTINF:-1,Nickelodeon
+#EXTINF:-1 tvg-name="Nickelodeon" tvg-logo="https://www.glebul.com/images/tv-logo/nickelodeon.png" group-title="Детски" , Nickelodeon
 https://cdn9.stgledai.org/nickelodeon/index.m3u8?token=a511e4e82fa3633a0a1a7458ca8181faa0cd8338-344cf5b3df0a8908b65bf44881e8ef42-1739359746-1739348946
-#EXTINF:-1,NickJr
+#EXTINF:-1 tvg-name="Nick Jr" tvg-logo="https://www.glebul.com/images/tv-logo/nick-jr.png" group-title="Детски" , Nick Jr
 https://cdn11.stgledai.org/nickjr/index.m3u8?token=432123d7de0c826032fed7c08728586ecb148e30-b473d08d71c996bea545952474948fbc-1739359758-1739348958
-#EXTINF:-1,Nicktoons
+#EXTINF:-1 tvg-name="Nicktoons" tvg-logo="https://www.glebul.com/images/tv-logo/nicktoons.png" group-title="Детски" , Nicktoons
 https://cdn13.stgledai.org/nicktoons/index.m3u8?token=4807f491d14257848f52845afcea454cdd8b8cac-d4e2dca398377ee453016aa513914e25-1739359770-1739348970
 #EXTINF:-1 tvg-id="Balkanika.bg" tvg-name="Balkanika HD" tvg-logo="http://iphd.tv/service/bulsat/balkanika-23-04-2019.svg" group-title="Музикални" , Balkanika HD
 https://cdn13.stgledai.org/balkanika/index.m3u8?token=0fd2ea13faf11bc0442091b5e394872ced555037-d54c99ecdbd4d0fcbfe91182cb93dffa-1739359804-1739349004
