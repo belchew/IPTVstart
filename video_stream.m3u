@@ -9,15 +9,15 @@ https://cdn10.stgledai.org/bnthd/index.m3u8?token=924bfccf985cd80bed30ed1ecb5b2d
 https://cdn11.stgledai.org/bnt4/index.m3u8?token=f0f5177c185dfdcce933b86f700b85b761a39d6e-3039122e0744141e9822ab57c5139292-1739350539-1739339739
 #EXTINF:-1 tvg-name="Nova TV" tvg-logo="https://www.glebul.com/images/tv-logo/nova-tv-hd.png" group-title="ЕФИРНИ" , NovaTV
 https://cdn10.stgledai.org/nova/index.m3u8?token=ee2937b20718692daca6d3da5ba2ff8a727d1282-53bb45ecc30c6c405e32d3553d57645a-1739350551-1739339751
-#EXTINF:-1#EXTINF:-1 tvg-name="bTV" tvg-logo="https://www.glebul.com/images/tv-logo/btv-hd.png" group-title="ЕФИРНИ" , bTV HD
+#EXTINF:-1 tvg-name="bTV" tvg-logo="https://www.glebul.com/images/tv-logo/btv-hd.png" group-title="ЕФИРНИ" , bTV HD
 https://cdn9.stgledai.org/btv/index.m3u8?token=1ca1b76faf3522182a51799d84fa05919a02a7e7-ed5cc6bbc935ec3cca9dca1048ac8d47-1739350563-1739339763
-#EXTINF:-1#EXTINF:-1 tvg-name="bTV" tvg-logo="https://www.glebul.com/images/tv-logo/btv-hd.png" group-title="ЕФИРНИ" , bTV HDAction
+#EXTINF:-1 tvg-name="bTV" tvg-logo="https://www.glebul.com/images/tv-logo/btv-hd.png" group-title="ЕФИРНИ" , bTV HDAction
 https://cdn13.stgledai.org/btvaction/index.m3u8?token=875ab72f660fee6b8828be5f9b26eec41e2b1849-3d76b023848deb7448be2cad7d3c7812-1739350586-1739339786
-#EXTINF:-1#EXTINF:-1 tvg-name="bTV" tvg-logo="https://www.glebul.com/images/tv-logo/btv-hd.png" group-title="ЕФИРНИ" , bTV HDCinema
+#EXTINF:-1 tvg-name="bTV" tvg-logo="https://www.glebul.com/images/tv-logo/btv-hd.png" group-title="ЕФИРНИ" , bTV HDCinema
 https://cdn13.stgledai.org/btvcinema/index.m3u8?token=70c14dbc4d847a16afc658dd566ac6d58cb2d6f2-e0c50a6dadfbedb16d512cda49c356ef-1739350598-1739339798
-#EXTINF:-1#EXTINF:-1 tvg-name="bTV" tvg-logo="https://www.glebul.com/images/tv-logo/btv-hd.png" group-title="ЕФИРНИ" , bTV HDComedy
+#EXTINF:-1 tvg-name="bTV" tvg-logo="https://www.glebul.com/images/tv-logo/btv-hd.png" group-title="ЕФИРНИ" , bTV HDComedy
 https://cdn10.stgledai.org/btvcomedy/index.m3u8?token=9915ee92480b4217b8c982e0c5ff77cb225618f0-0ca805efff6df01061822d6c09759e82-1739350609-1739339809
-#EXTINF:-1#EXTINF:-1 tvg-name="bTV" tvg-logo="https://www.glebul.com/images/tv-logo/btv-hd.png" group-title="ЕФИРНИ" , bTV HDStory
+#EXTINF:-1 tvg-name="bTV" tvg-logo="https://www.glebul.com/images/tv-logo/btv-hd.png" group-title="ЕФИРНИ" , bTV HDStory
 https://cdn9.stgledai.org/btvlady/index.m3u8?token=4bbb71c516992c7f9d5bb58673270aa1e64f2793-8eff1beac3f0d4b56c8149b164d3ef50-1739350621-1739339821
 #EXTINF:-1 tvg-name="KinoNova" tvg-logo="https://www.glebul.com/images/tv-logo/kino-nova.png" group-title="Филмови" , KinoNova
 https://cdn10.stgledai.org/kino/index.m3u8?token=50e172ffa035a17d2e7d97c550d357014a1059de-c18bce6b77776cebe114cdd7741292ad-1739350632-1739339832
