@@ -1,5 +1,5 @@
-#EXTM3U catchup="flussonic" url-tvg="https://github.com/harrygg/EPG/raw/refs/heads/master/all-2days.details.epg.xml.gz
-"
+#EXTM3U catchup="flussonic" url-tvg="https://github.com/harrygg/EPG/raw/refs/heads/master/all-2days.details.epg.xml.gz"
+
 #EXTINF:-1 tvg-name="БНТ 1" tvg-logo="https://www.glebul.com/images/tv-logo/bnt-1-hd.png" group-title="ЕФИРНИ" , BNT 1 HD
 https://cdn13.stgledai.org/bnt/index.m3u8?token=2b21a32650f0be7719629d368dc504fa5f5eae1b-d7a04bccf471ef99daf75bdcdfb6f20c-1739350503-1739339703
 #EXTINF:-1 tvg-name="БНТ 2" tvg-logo="https://www.glebul.com/images/tv-logo/bnt-2.png" group-title="ЕФИРНИ" , BNT 2
@@ -66,7 +66,7 @@ https://cdn11.stgledai.org/animalplanet/index.m3u8?token=62431b7675a66271fa65794
 https://cdn8.stgledai.org/tlc/index.m3u8?token=abd743f8d75bce616d99578c37fa51cef0fd2cbf-9cba994c648172ad17de9d5d39457c31-1739350887-1739340087
 #EXTINF:-1 tvg-id="Balkanika.bg" tvg-name="Balkanika HD" tvg-logo="http://iphd.tv/service/bulsat/balkanika-23-04-2019.svg" group-title="Музикални" , Balkanika HD
 https://cdn13.stgledai.org/balkanika/index.m3u8?token=c578d4206c2473d365e5ef1004d5e3b6d15bed76-b4368af653cf63ab851ec87398c9a2cc-1739350922-1739340122
-#EXTINF:-1,Planeta
+#EXTINF:-1 tvg-name="Planeta HD" tvg-logo="https://www.glebul.com/images/tv-logo/planeta-hd.png" group-title="Музикални" , Planeta HD
 https://cdn13.stgledai.org/planetahd/index.m3u8?token=65c152763041bc760f232ec5cdf3f243497325dc-726f14e605114b2e6a9d81b44f5b450c-1739350934-1739340134
 #EXTINF:-1 tvg-name="Planeta Folk" tvg-logo="https://www.glebul.com/images/tv-logo/planeta-folk.png" group-title="Музикални" , Planeta Folk
 https://cdn11.stgledai.org/planetafolk/index.m3u8?token=44fdae0215eb2aa8237d511ff58bdc6274a27d21-254e9baa042b261c7a27c848818fae21-1739350945-1739340145
