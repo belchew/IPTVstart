@@ -48,7 +48,7 @@ https://cdn13.stgledai.org/24kitchen/index.m3u8?token=5294dbb6713801ebcfeccf3a24
 https://cdn10.stgledai.org/discovery/index.m3u8?token=e3ca46e57e2c6eca53d0b524874bf7ffff59aab9-8412222d350f26c9492fe15dd1cabe80-1739451572-1739440772
 #EXTINF:-1 tvg-name="National Geographic" tvg-logo="https://www.glebul.com/images/tv-logo/nat-geo-hd.png" group-title="Научни" , National Geographic HD
 https://cdn8.stgledai.org/ng/index.m3u8?token=744f16ac16399a314a828ceb63874b9b63f7057b-4197693ad681d06e27eda4712b0df855-1739451583-1739440783
-#EXTINF:-1 tvg-name="National Geographic" tvg-logo="https://www.glebul.com/images/tv-logo/nat-geo-hd.png" group-title="Научни" , National Geographic HDWild
+#EXTINF:-1 tvg-name="Nat Geo Wild" tvg-logo="https://www.glebul.com/images/tv-logo/nat-geo-wild-hd.png" group-title="Научни" , Nat Geo Wild HD
 https://cdn8.stgledai.org/natgeowild/index.m3u8?token=5e1b3f2e6e495e07d7e4fc70f0446ac8fce284f0-44504b919b37c371997c433874fde971-1739451595-1739440795
 #EXTINF:-1 tvg-id="HistoryChannel.bg" tvg-name="History Channel HD" tvg-logo="http://iphd.tv/service/bulsat/history_channel-23-04-2019.svg" group-title="Научни" , History Channel HD
 https://cdn9.stgledai.org/historytv/index.m3u8?token=3be8795909e23657c4aa136744563573bb92187e-9787c5b8a316ab1dacc02eb5f44fd40e-1739451607-1739440807
