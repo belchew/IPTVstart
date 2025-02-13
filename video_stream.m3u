@@ -94,3 +94,5 @@ https://cdn13.stgledai.org/mtelsport3/index.m3u8?token=e97449f6e275a979b534370bf
 https://cdn10.stgledai.org/mtelsport4/index.m3u8?token=da18abe3955950654cc38888b9c9cd868d6cbfd5-39c35cb379e5adb7295f26bbd4d6756c-1739451899-1739441099
 #EXTINF:-1 tvg-name="Nova Sport" tvg-logo="https://www.glebul.com/images/tv-logo/nova-sport-hd.png" group-title="Спортни" , Nova Sport HD
 https://cdn11.stgledai.org/novasport/index.m3u8?token=7777f9107c8bfaefe56cc2d73b088b7cfbe298bf-77531e321258ef2189934c6173cde3bf-1739451911-1739441111
+#EXTINF:-1 tvg-name="Ring BG" tvg-logo="https://www.glebul.com/images/tv-logo/ring-bg-hd.png" group-title="Спортни" , Ring BG
+https://cdn13.stgledai.org/ringbg/index.m3u8?token=20c6ddf8d37042c75a529ff6c660d93853b56709-c8e8c957c64e44a492eef25bac6c0020-1739451922-1739441122
